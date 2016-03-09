@@ -1,14 +1,26 @@
-layout_spectrum: 0.08834586
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1510025
 color:
   saturation: 0.4580201
-  lightness: 0.9191729
   brandStrength: 0.5100251
+  rhythmicContrast: 0.5557644
   brandColors:
     - '#0B0F28'
     - '#CFCFC6'
     - '#91786F'
     - '#392F27'
     - '#8899F2'
-  rhythmicContrast: 0.5557644
-typography_spectrum: 0.1510025
+  lightness: 0.9191729
+layout_spectrum: 0.1420157
 name: William Larsten
