@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.1510025
 color:
   saturation: 0.4580201
-  brandStrength: 0.5100251
-  rhythmicContrast: 0.5557644
+  brandStrength: 0.743762
+  lightness: 0.9191729
   brandColors:
     - '#0B0F28'
     - '#CFCFC6'
     - '#91786F'
     - '#392F27'
     - '#8899F2'
-  lightness: 0.9191729
+  rhythmicContrast: 0.5557644
 layout_spectrum: 0.1420157
 name: William Larsten
