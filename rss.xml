@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[William Larsten]]></title>
+        <description><![CDATA[William Larsten]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 12:05:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Less, but better]]></title>
+            <description><![CDATA[<article><h1>Less, but better</h1><p>Less, but better. Dieter Rams We don't need more stuff. We need fewer things that we use all the time. There's nothing wrong with buying something new. Except when you already have something that fulfills the same function as well or better. Only surround yourself with things that you really love and use all the time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8778662ff1475b6bee95f3b43570de24e8ae7ecf.png"></article>]]></description>
+            <link>http://www.williamlarsten.com/less-but-better/</link>
+            <guid isPermaLink="false">ebfe0a12-d5c8-44cf-a8ac-62d37e13c835</guid>
+            <pubDate>Wed, 09 Mar 2016 12:05:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
